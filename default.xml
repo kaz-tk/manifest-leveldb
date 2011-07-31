@@ -7,5 +7,5 @@
 	<default  revision="master"
 						remote="github" />
 
-	<project path="" name="glacefullife/LevelDB4Android"></project>
+	<project path="leveldb4android" name="glacefullife/LevelDB4Android"></project>
 </manifest>
