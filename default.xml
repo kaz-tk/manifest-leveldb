@@ -7,6 +7,8 @@
 	<default  revision="master"
 						remote="github" />
 
-	<project path="leveldb4android" name="glacefullife/leveldb"></project>
+	<project path="leveldb4android/jni" name="glacefullife/leveldb">
+		<copyfile src="README" dest="README" />
+	</project>
 	<project path="leveldb4android" name="glacefullife/LevelDB4Android"></project>
 </manifest>
